@@ -3,7 +3,6 @@ C:\Users\79292\RiderProjects\Comp practice\Comp practice\bin\Debug\net6.0\Comp p
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\bin\Debug\net6.0\Comp practice.runtimeconfig.json
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\bin\Debug\net6.0\Comp practice.dll
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\bin\Debug\net6.0\Comp practice.pdb
-C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.csproj.AssemblyReference.cache
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.AssemblyInfoInputs.cache
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\refint
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.pdb
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.genruntimeconfig.cache
 C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\ref\Comp practice.dll
+C:\Users\79292\RiderProjects\Comp practice\Comp practice\obj\Debug\net6.0\Comp practice.sourcelink.json

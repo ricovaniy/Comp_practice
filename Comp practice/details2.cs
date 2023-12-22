@@ -69,7 +69,7 @@ class Details2
     }
 
 
-    public static void Main()
+    public static void Main5()
     {
         var graph = new Graph().CreateGraph();
         var orderSorted = GetSortedOrder(graph.graph, graph.graphPowers);
